@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hexeta
-- 👀 I’m interested in ...getting to know get_iplayer as i'm struggling with the commands.
+- 👀 I’m interested in ...getting to know get_iplayer as I'm struggling with the commands.
 - 🌱 I’m also currently trying to embed subtitles for my chosen programmes for my own use because some players don't recognise .srt files 
 - 💞️ I’m looking to collaborate on ...not clever enough to contribute anything!
 - 📫 How to reach me ...via PM from the forum?
